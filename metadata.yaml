@@ -1,0 +1,29 @@
+_repo: The-Fifth-Leicestershire--13-A-Record-Of-The-1-5th-Battalion-The-Leicestershire-Regiment-T.F.__17369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hills, John David
+    alias: Hills, J. D.
+    gutenberg_agent_id: '7329'
+    url: http://www.gutenberg.org/2009/agents/7329
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Leicestershire Regiment. Battalion, 1/5th'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: "The Fifth Leicestershire\r\nA Record Of The 1/5th Battalion The Leicestershire\
+  \ Regiment, T.F., During The War, 1914-1919."
+url: http://www.gutenberg.org/ebooks/17369
