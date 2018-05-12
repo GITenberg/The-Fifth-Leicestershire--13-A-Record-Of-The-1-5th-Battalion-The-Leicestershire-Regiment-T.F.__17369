@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7329'
     url: http://www.gutenberg.org/2009/agents/7329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17369#The-Fifth-Leicestershire--13-A-Record-Of-The-1-5th-Battalion-The-Leicestershire-Regiment-T.F._
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-12-22'
 gutenberg_type: Text
